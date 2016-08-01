@@ -1,2 +1,2 @@
 # hello_world
-Sunny chutia hai,gandu hai
+i like android and web development 
